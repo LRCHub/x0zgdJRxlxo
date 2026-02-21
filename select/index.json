@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "ダーリンダンス",
+  "base_artist": "YuNi",
+  "createdAt": "2026-02-21T07:28:13.103644Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ダーリンダンス",
+      "artist": "Kairiki Bear",
+      "has_synced": true,
+      "path": "select/01_ダーリンダンス_Kairiki_Bear.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ダーリンダンス",
+      "artist": "かいりきベア",
+      "has_synced": true,
+      "path": "select/02_ダーリンダンス_かいりきベア.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ダーリンダンス (feat. 花里みのり&桐谷遥&初音ミク)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/03_ダーリンダンス_(feat._花里みのり&桐谷遥&初音ミク)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ダーリンダンス",
+      "artist": "MORE MORE JUMP! feat. 花里みのり&桐谷遥&初音ミク",
+      "has_synced": true,
+      "path": "select/04_ダーリンダンス_MORE_MORE_JUMP!_feat._花里みのり&桐谷遥&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ダーリンダンス (Darling Dance)",
+      "artist": "かいりきベア (Kairiki Bear) feat. 初音ミク (Hatsune Miku)",
+      "has_synced": true,
+      "path": "select/05_ダーリンダンス_(Darling_Dance)_かいりきベア_(Kairiki_Bear)_feat._初音ミク_(Hatsune_Miku).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ダーリンダンス",
+      "artist": "かいりきベア feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/06_ダーリンダンス_かいりきベア_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ダーリンダンス",
+      "artist": "Kairiki Bear feat. Hatsune, Miku",
+      "has_synced": true,
+      "path": "select/07_ダーリンダンス_Kairiki_Bear_feat._Hatsune,_Miku.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ダーリンダンス",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/08_ダーリンダンス_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ダーリンダンス (Darling Dance) feat. 初音ミク",
+      "artist": "Kairiki Bear",
+      "has_synced": true,
+      "path": "select/09_ダーリンダンス_(Darling_Dance)_feat._初音ミク_Kairiki_Bear.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ダーリンダンス",
+      "artist": "Kotone",
+      "has_synced": true,
+      "path": "select/10_ダーリンダンス_Kotone.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ダーリンダンス - DARLING DANCE",
+      "artist": "Kairiki bear",
+      "has_synced": true,
+      "path": "select/11_ダーリンダンス_-_DARLING_DANCE_Kairiki_bear.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ダーリンダンス",
+      "artist": "Kairikibear",
+      "has_synced": true,
+      "path": "select/12_ダーリンダンス_Kairikibear.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ダーリンダンス",
+      "artist": "MORE MORE JUMP! (小倉唯, 吉岡茉祐, 降幡愛, 本泉莉奈)",
+      "has_synced": true,
+      "path": "select/13_ダーリンダンス_MORE_MORE_JUMP!_(小倉唯,_吉岡茉祐,_降幡愛,_本泉莉奈).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ダーリンダンス feat. 初音ミク",
+      "artist": "かいりきベア",
+      "has_synced": true,
+      "path": "select/14_ダーリンダンス_feat._初音ミク_かいりきベア.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ダーリンダンス - DARLING DANCE (feat. Hatsune Miku)",
+      "artist": "Kairiki Bear",
+      "has_synced": false,
+      "path": "select/15_ダーリンダンス_-_DARLING_DANCE_(feat._Hatsune_Miku)_Kairiki_Bear.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ダーリンダンス (Cover)",
+      "artist": "YuNi",
+      "has_synced": false,
+      "path": "select/pl_01_ダーリンダンス_(Cover)_YuNi.txt"
+    }
+  ]
+}
